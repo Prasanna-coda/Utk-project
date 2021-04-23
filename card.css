@@ -1,0 +1,48 @@
+body{
+  background-image: url('B.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.card{
+  display: block;
+  margin: auto;
+  width: 80%;
+}
+.container{
+  position: relative;
+
+}
+.text{
+  position: absolute;
+  top: 400px;
+  right:  550px;
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.para{
+  position: absolute;
+  top: 150px;
+  left:-40%;
+  font-family: 'Josefin Sans', sans-serif;
+  line-height: -2%;
+  text-align: justify;
+  text-indent: 50px;
+  letter-spacing: 4px;
+}
+
+p{
+
+  font-family: sans-serif;
+
+}
+input{
+
+  font-family: sans-serif;
+  font-size: 2rem;
+}
+.hi{
+ font-family: sans-serif;
+ font-size: 2rem;
+}
